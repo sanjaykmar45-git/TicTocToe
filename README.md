@@ -19,5 +19,7 @@ This is a simple and interactive Tic Tac Toe game built using HTML, CSS, and Jav
 https://sanjaykmar45-git.github.io/TicTocToe/
 
 ## Screenshot 
+![Tic-Tic-Toe](assets/tictoctoe1.png)
+![Tic-Tic-Toe](assets/tictoctoe2.png)
+![Tic-Tic-Toe](assets/tictoctoe3.png)
 
-![Currency Converter](assets/screenshot.jpeg)
